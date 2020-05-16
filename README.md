@@ -5,14 +5,14 @@ These are project management documents that may be useful for someone who would 
 
 Examples of project management documents per knowledge area:
 
-  Integration management - project charters and project management plans
+  - Integration management - project charters and project management plans
   
-  Scope management - work breakdown structure (WBS), WBS dictionary
+  - Scope management - work breakdown structure (WBS), WBS dictionary
   
-  Time management - project calendar, bar chart
+  - Time management - project calendar, bar chart
  
-  Risk management - risk breakdown structure (RBS), risk register
+  - Risk management - risk breakdown structure (RBS), risk register
   
-  Quality management - quality checklists
+  - Quality management - quality checklists
   
-  Communications management - communications management plan, stakeholder analysis
+  - Communications management - communications management plan, stakeholder analysis
